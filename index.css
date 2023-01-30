@@ -1,0 +1,202 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@900&display=swap");
+body {
+  background-color: white;
+  width: 1440px;
+  height: 2554px;
+  border: none;
+}
+.done {
+  position: relative;
+  width: 990px;
+  height: 800px;
+  background-color: black;
+  background-image: url(/artgalery/desktop/image-hero.jpg);
+  background-repeat: no-repeat;
+  background-position-x: 450px;
+}
+.hone {
+  position: absolute;
+  margin-top: 189px;
+  margin-left: 165px;
+  width: 700px;
+  height: 174px;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 88px;
+  font-style: normal;
+  font-family: "Big Shoulders Display", cursive;
+
+  color: white;
+}
+.dtwo {
+  position: absolute;
+}
+.pone {
+  position: absolute;
+  width: 350px;
+  height: 160px;
+  margin-left: 925px;
+  margin-top: 210px;
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+}
+.bone {
+  position: absolute;
+  width: 204px;
+  height: 72px;
+  background-color: #d5966c;
+  border: none;
+  color: white;
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 3.5px;
+  margin-top: 438px;
+  margin-left: 925px;
+  cursor: pointer;
+  background-color: black;
+}
+.btwo {
+  position: absolute;
+  background-color: #d5966c;
+  border: none;
+  color: white;
+  width: 56px;
+  height: 72px;
+  margin-left: 1129px;
+  margin-top: 438px;
+  cursor: pointer;
+}
+.btwo:hover {
+  background-color: black;
+}
+.bone:hover {
+  background-color: #d5966c;
+}
+.htwo {
+  position: absolute;
+  width: 350px;
+  height: 120px;
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 60px;
+  text-transform: uppercase;
+  color: #151515;
+  margin-left: 165px;
+  margin-top: 240px;
+}
+.ptwo {
+  position: absolute;
+  width: 350px;
+  height: 128px;
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  color: #444444;
+  margin-top: 392px;
+  margin-left: 165px;
+}
+.ione {
+  position: absolute;
+  margin-left: 640px;
+  margin-top: 180px;
+}
+.itwo {
+  position: absolute;
+  margin-left: 165px;
+  margin-top: 610px;
+}
+.ithree {
+  position: absolute;
+  margin-left: 830px;
+  margin-top: 610px;
+}
+.dthree {
+  position: absolute;
+  width: 445px;
+  height: 377px;
+  background-color: #151515;
+  margin-left: 830px;
+  margin-top: 953px;
+}
+.hthree {
+  position: absolute;
+  width: 350px;
+  font-family: "Big Shoulders Display", cursive;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 60px;
+  margin-left: 48px;
+  margin-top: 65px;
+  color: white;
+}
+.pthree {
+  position: absolute;
+  width: 350px;
+  height: 96px;
+  font-family: "Outfit", sans-serif;
+  font-style: normal;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 32px;
+  color: white;
+  margin-top: 217px;
+  margin-left: 48px;
+}
+.dfour {
+  width: 1440px;
+  height: 244px;
+  position: absolute;
+  background-color: #151515;
+  margin-top: 1510px;
+}
+.hfour {
+  position: absolute;
+  color: white;
+  width: 180px;
+  height: 58px;
+  margin-top: 80px;
+  margin-left: 165px;
+}
+.pfour {
+  position: absolute;
+  width: 430px;
+  height: 84px;
+  margin-left: 465px;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 28px;
+  color: white;
+  margin-top: 80px;
+}
+.ifour{
+    position: absolute;
+    margin-left: 1189px;
+    margin-top: 98px;
+
+}
+.ifive{
+    position: absolute;
+    margin-left: 1220px;
+    margin-top: 98px;
+}
+.isix{
+    position: absolute;
+    margin-left: 1255px;
+    margin-top: 98px;
+
+}
